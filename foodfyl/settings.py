@@ -81,7 +81,7 @@ WSGI_APPLICATION = "foodfyl.wsgi.application"
 DATABASES = {
    'default': {
        'ENGINE': 'django.db.backends.postgresql',
-       'NAME': 'foodfyl_moinak',
+       'NAME': 'foodfyl',
        'USER': 'postgres',
        'PASSWORD': 'Gangtok@90',
        'HOST': 'localhost',

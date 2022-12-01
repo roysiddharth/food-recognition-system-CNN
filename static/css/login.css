@@ -1,11 +1,12 @@
 body {
-  background-image: url("{% static 'Resources/brooke-lark-wMzx2nBdeng-unsplash.jpg' %}");
+  background-image: url("/static/Resources/brooke-lark-wMzx2nBdeng-unsplash.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   font-family: "Open Sans", sans-serif;
   color: #333333;
 }
+
 
 .box-form {
   margin: 0 11%;
